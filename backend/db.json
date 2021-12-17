@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Teclado Gamer",
+      "preco": 105.5
+    },
+    {
+      "id": 2,
+      "nome": "Bolacha recheada",
+      "preco": 2.59
+    },
+    {
+      "id": 3,
+      "nome": "Samsung A7",
+      "preco": 2700
+    },
+    {
+      "nome": "julio",
+      "preco": "10.00",
+      "id": 4
+    },
+    {
+      "nome": "julio",
+      "preco": "10.00",
+      "id": 5
+    }
+  ]
+}
