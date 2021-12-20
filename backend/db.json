@@ -16,14 +16,19 @@
       "preco": 2700
     },
     {
-      "nome": "julio",
-      "preco": "10.00",
+      "nome": "juliomod1",
+      "preco": "11.00",
       "id": 4
     },
     {
-      "nome": "julio",
+      "nome": "juliotesteshow",
       "preco": "10.00",
       "id": 5
+    },
+    {
+      "nome": "teste",
+      "preco": "2.50",
+      "id": 6
     }
   ]
 }
