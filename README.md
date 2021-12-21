@@ -1,4 +1,4 @@
-# primeiro_projeto
+# primeiro_projeto_ANGULAR
 primeiro projeto em Angular
 
 <div align="center">
