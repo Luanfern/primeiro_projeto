@@ -13,3 +13,8 @@ table {
 .delete > i{
     color: #e35e6b;
 }
+
+.columnpreco{
+    padding-right: 40px;
+    text-align: right;
+}
